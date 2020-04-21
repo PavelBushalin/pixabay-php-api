@@ -38,6 +38,7 @@ class PixabayClient {
         'q',
         'lang',
         'callback',
+        'colors',
         'image_type',
         'orientation',
         'category',
